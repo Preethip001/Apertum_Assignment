@@ -18,7 +18,7 @@
   "dependencies": {
     "autobind-decorator": "^2.4.0",
     "firebase": "^7.7.0",
-    "firebase-admin": "^8.9.1",
+    "firebase-admin": "^11.4.1",
     "mobx": "^3.0.0 || ^4.0.0 || ^5.0.0",
     "mobx-react": "^6.1.5",
     "mobx-react-router": "^4.1.0",
